@@ -1,8 +1,8 @@
 # 💫 About Me:
 
 Bachelors in Computer Science with a strong interest in Computational Biology. 
+<br>My experience spans Geospatial Ecology, Microbial Ecology, AI Development, and Cancer Research. <br>I aspire to establish a research career that integrates Data Science and Biology with near-term goal of pursuing a PhD. 
 
-<br>My experience spans Geospatial Ecology, Microbial Ecology, AI Development, and Cancer Research. <br>I aspire to establish a research career that integrates Data Science and Biology with near-term goal of pursuing a PhD. <br><br>Languages: <br>R, Javascript, Java, and C++.<br>Python, Typescript, Fortran, Cobol, Kotlin, and Scala
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Josue-B-Navarrete&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
